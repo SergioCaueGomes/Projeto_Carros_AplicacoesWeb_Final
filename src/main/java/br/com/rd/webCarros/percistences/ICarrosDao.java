@@ -12,5 +12,6 @@ public interface ICarrosDao {
 	public void excluirCarros(Carros carro) throws SQLException;
 	public Carros consultarCarros(Carros carro) throws SQLException;
 	public List<Carros>consultaCarros() throws SQLException;
+	public int proximoId() throws SQLException;
 	
 }
