@@ -17,7 +17,7 @@
 					
 					<label style="margin-top: 10px">Ano</label>
 					<input class="form-control form-control-sm" type="text" name="ano" placeholder="Digite o ano" aria-label=".form-control-sm example" style="margin-top: 5px">
-					<button type="submit" class="btn btn-success" name="option" id="option" style="margin-top: 10px">Cadastrar</button>
+					<button type="submit" class="btn btn-success" name="option" id="option" style="margin-top: 10px">/button>
 				</form>
 			</div>
 			<div class="col-8">
